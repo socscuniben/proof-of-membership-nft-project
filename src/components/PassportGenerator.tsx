@@ -98,7 +98,7 @@ export function PassportGenerator() {
 
   const mintNFT = () => {
     // This would interface with blockchain in a real application
-    toast.success("NFT minted successfully! Welcome to SOCSC UNIBEN community!");
+    toast.success("NFT minted successfully! Welcome to C UNIBEN community!");
   };
 
   return (
